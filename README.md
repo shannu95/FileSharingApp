@@ -32,6 +32,5 @@ Highlights
 > To login into the peer, we have to enter the username, server IP and port number .
 
 
-Author: Shanmukha Agastyaraju,Shravan Reddy Mosra
-Dawg Tag : 854024207,853967443
+Author: Shanmukha Agastyaraju
 Date: 04th December, 2016
